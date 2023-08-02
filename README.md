@@ -1,9 +1,20 @@
 # OnlineExam
 
-Online Exam is a PHP-based website designed to facilitate GRE-type exams online through registration. The website enables registered participants to access the system and take the exam. It serves as a platform for GRE exam practice and other multiple-choice competitive quizzes.
+The Online Exam project is a website designed to enable users to take GRE-like exams online after registering. It allows registered participants to access the system and participate in the exam, making it suitable for GRE exam practice and other multiple-choice competitive quizzes.
 
 Key Features:
 
-User Registration: Participants can register on the website. Admin Panel: Admins can set multiple-choice questions for the exam. Multi-Answer Questions: The quiz can include questions with multiple correct answers. Results Review: After the exam, users can check attempted questions, correct answers, and wrong answers. User Information: Logged-in users can view their information in the system. Time Limit Configuration: Admins can set a time limit for completing the quiz. Math and English Sections: The quiz is divided into different sections for Math and English questions. Support and Contact: Users and non-users can seek help or information by contacting the developer through the website. GRE Official Site Link: The website provides a link to the GRE official site. Database Storage: All user information is securely stored in the MySQL database.
-
-Platform: Notepad++ Languages: HTML, CSS, PHP, JavaScript, Bootstrap Database: MySQL
+ 1. Users can register as participants on the website.
+ 2. The admin panel provides options for setting multiple-choice questions for the quiz.
+ 3. The quiz can include multi-answer questions.
+ 4. After the exam, users can review attempted questions, the number of correct answers, and wrong answers.
+ 5. Users can view their information after logging into the system.
+ 6. The admin can configure the time limit for completing the quiz.
+ 7. The website has separate sections for Math and English-type questions.
+ 8. Users and non-users can contact the developer for assistance or information through the website.
+ 9. The website includes a link to the official GRE site.
+ 10. User information is securely stored in the database.
+     
+Platform: Notepad++
+Languages: HTML, CSS, PHP, JavaScript, Bootstrap
+Database: MySQL
